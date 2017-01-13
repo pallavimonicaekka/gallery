@@ -1,0 +1,100 @@
+/* ----------------------------
+layout
+---------------------------- */
+
+/* row */
+.row
+{
+	
+	background: #fff;
+	width: 85em;
+}
+
+.home{
+	float: right;
+	font-size: 1.125em;
+	font-family: 'Montserrat', sans-serif;
+	color: #7ac943;
+	margin-right: 3em;
+}
+
+.row--nav{
+	float: left;
+	margin-left: 80px;
+	padding-top: 4.5em;
+	padding-bottom: 4.375em;
+}
+
+
+/* containers */
+.container--l,
+.container--r,
+.container--list{
+	margin: 0 auto;
+	
+}
+.container--l{
+	text-align: left;
+	font-size: 1.125em;
+	font-family: 'Montserrat', sans-serif;
+	color: #666666;
+}
+.container--r{
+	margin-bottom: 4em;
+	text-align: left;
+	font-size: 0.6875em;
+	font-family: 'Montserrat', sans-serif;
+	color: #7ac943;
+	margin-left: 0em;
+}
+
+a:link,a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+	text-decoration: none;
+	color: #666666;
+}
+
+a.two:link,a.two:visited {
+    text-decoration: none;
+   	color:#7ac943
+}
+a.two:hover{
+	text-decoration: none;
+	color: #666666;
+}
+
+.photos1{
+	width: 35em;
+	height: 25em;
+	margin-left: 6.5em;
+	margin-top: 2em;
+}
+
+.photos1:hover{
+	 box-shadow: 0.4em 0.4em 1em #888888;
+	 transform: scale(1.01, 1.01);
+}
+
+.photos1:hover::after{
+	opacity: 1;
+}
+
+.photos2{
+	width: 35em;
+	height: 25em;
+	margin-left: 3em;
+	margin-top: 2em;
+}
+
+.photos2:hover{
+	 box-shadow: 0.4em 0.4em 1em #888888;
+	 transform: scale(1.01, 1.01);
+}
+
+.photos2:hover::after{
+	opacity: 1;
+}
+
