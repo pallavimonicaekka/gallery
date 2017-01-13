@@ -10,14 +10,6 @@ layout
 	width: 85em;
 }
 
-.home{
-	float: right;
-	font-size: 1.125em;
-	font-family: 'Montserrat', sans-serif;
-	color: #7ac943;
-	margin-right: 3em;
-}
-
 .row--nav{
 	float: left;
 	margin-left: 80px;
