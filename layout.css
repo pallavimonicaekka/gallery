@@ -78,10 +78,6 @@ a.two:hover{
 	 transform: scale(1.01, 1.01);
 }
 
-.photos1:hover::after{
-	opacity: 1;
-}
-
 .photos2{
 	width: 35em;
 	height: 25em;
@@ -92,9 +88,5 @@ a.two:hover{
 .photos2:hover{
 	 box-shadow: 0.4em 0.4em 1em #888888;
 	 transform: scale(1.01, 1.01);
-}
-
-.photos2:hover::after{
-	opacity: 1;
 }
 
