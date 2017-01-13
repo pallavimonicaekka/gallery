@@ -1,0 +1,30 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>random thoughts and aftermath</title>
+  
+  <!-- CSS links -->
+  <link rel="stylesheet" href="assets/css/layout.css">
+
+</head>
+<body>
+
+<div class="row row--nav">
+  <!--navigation-->
+  <div class="home"><a class="two" href="D:/portfolio/new portfolio_idc/blogsite/home.html" style="float: right; ">HOME</a></div>
+  <div class="row container--l">
+   <a href="index.html">
+    WORKS AND PROJECTS
+    </a>
+  </div>
+<div>
+  <img src="w1.png" class="photos1">
+  <img src="w1.png" class="photos2">
+  <img src="w1.png" class="photos1">
+</div>
+</div>
+
+</body>
+</html>
